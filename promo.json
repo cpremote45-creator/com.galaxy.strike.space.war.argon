@@ -10,11 +10,33 @@
     },
   
     {
+      "name": "Critical sniper Tzar Fps",
+      "packageName": "Critical sniper Tzar Fps",
+      "targetAsin": "B0CGMDN9XV",
+      "storeUrl": "https://www.amazon.com/Special-Services-operation-Commando-Shooting/dp/B0CGMDN9XV",
+      "rewardedVideoURL": "https://files.catbox.moe/4dvr0w.mp4"
+    },
+  
+    {
       "name": "Open World Farming",
       "packageName": "com.open.world.farming.at",
       "targetAsin": "B0DQ19XKH4",
       "storeUrl": "https://www.amazon.com/World-Gangster-Farming-Simulator-Tractor/dp/B0DQ19XKH4",
       "rewardedVideoURL": "https://files.catbox.moe/bbfwwx.mp4"
+    },
+    {
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
+    },
+    {
+      "name": "Bike Wheelie",
+      "packageName": "com.bike.wheeling.racing.master.dts",
+      "targetAsin": "B0GMJNQHKY",
+      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
+      "rewardedVideoURL": "https://files.catbox.moe/kqeb9s.mp4"
     },
     {
       "name": "Gun SoundShoot",
