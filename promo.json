@@ -2,11 +2,27 @@
   "apps": [
 
     {
-      "name": "Car Driving Simulator OL",
-      "packageName": "com.dts.car.driving.simulator",
-      "targetAsin": "B0GFNKG9XL",
-      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
-      "rewardedVideoURL": "https://files.catbox.moe/6bmh8p.mp4"
+      "name": "Critical sniper Tzar Fps",
+      "packageName": "Critical sniper Tzar Fps",
+      "targetAsin": "B0CGMDN9XV",
+      "storeUrl": "https://www.amazon.com/Special-Services-operation-Commando-Shooting/dp/B0CGMDN9XV",
+      "rewardedVideoURL": "https://files.catbox.moe/4dvr0w.mp4"
+    },
+  
+    {
+      "name": "Critical sniper Tzar Fps",
+      "packageName": "Critical sniper Tzar Fps",
+      "targetAsin": "B0CGMDN9XV",
+      "storeUrl": "https://www.amazon.com/Special-Services-operation-Commando-Shooting/dp/B0CGMDN9XV",
+      "rewardedVideoURL": "https://files.catbox.moe/4dvr0w.mp4"
+    },
+  
+    {
+      "name": "Open World Farming",
+      "packageName": "com.open.world.farming.at",
+      "targetAsin": "B0DQ19XKH4",
+      "storeUrl": "https://www.amazon.com/World-Gangster-Farming-Simulator-Tractor/dp/B0DQ19XKH4",
+      "rewardedVideoURL": "https://files.catbox.moe/bbfwwx.mp4"
     },
   
     {
